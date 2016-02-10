@@ -1,4 +1,4 @@
-<project name="hello world sample" default="jar">
+<project name="hello world sample">
 
   <property name="output" value="build"/>
   <property name="output.classes" value="${output}/classes"/>
